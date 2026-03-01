@@ -51,7 +51,7 @@ Cada repositório possui seu próprio README explicando o objetivo e funcionamen
 ## 📫 Contato
 
 * GitHub: [github.com/joaoribeiroodev](https://github.com/joaoribeiroodev)
-* LinkedIn: https://www.linkedin.com/in/joão-pedro-lima-ribeiro-a62913310/
+* LinkedIn: https://www.linkedin.com/in/joão-pedro-lima-ribeiro-a62913310
 
 ---
 
