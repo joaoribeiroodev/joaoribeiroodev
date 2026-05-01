@@ -2,10 +2,6 @@
 
 # 👨‍💻 João Ribeiro | Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaoribeiroodev&color=0891b2&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/joaoribeiroodev?style=flat-square&color=0891b2)
-![GitHub User's stars](https://img.shields.io/github/stars/joaoribeiroodev?style=flat-square&color=0891b2)
-
 ### 🚀 Desenvolvedor Full Stack | Clean Code | Clean Architecture
 
 Apaixonado por criar soluções robustas e escaláveis na web. Especializado em desenvolvimento back-end e front-end com foco em qualidade, performance e melhor experiência do usuário.
@@ -50,10 +46,6 @@ Sou um desenvolvedor full stack com experiência em criação de aplicações we
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoribeiroodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/joaoribeiroodev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiroodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/joaoribeiroodev)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaoribeiroodev&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/joaoribeiroodev)
 
 </div>
@@ -67,29 +59,6 @@ Sou um desenvolvedor full stack com experiência em criação de aplicações we
 | Java | ████████████░░░░░░░░ 60% |
 | JavaScript | ███████░░░░░░░░░░░░░ 35% |
 | SQL | ███░░░░░░░░░░░░░░░░░ 5% |
-
----
-
-## 📌 Projetos em Destaque
-
-<a href="https://github.com/joaoribeiroodev/seu-projeto-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoribeiroodev&repo=seu-projeto-1&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
-</a>
-
-<a href="https://github.com/joaoribeiroodev/seu-projeto-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaoribeiroodev&repo=seu-projeto-2&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
-</a>
-
----
-
-## 📈 Atividade Recente
-
-```
-📅 Contribuições por semana
-
-████████░░░░░░ 85% de atividade
-🎯 Compromisso: Código limpo e testes sempre!
-```
 
 ---
 
