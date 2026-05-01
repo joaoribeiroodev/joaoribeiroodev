@@ -52,20 +52,11 @@ Sou um desenvolvedor full stack com experiência em criação de aplicações we
 
 ---
 
-## 🎨 Linguagens Mais Usadas
-
-| Linguagem | Percentual |
-|-----------|-----------|
-| Java | ████████████░░░░░░░░ 60% |
-| JavaScript | ███████░░░░░░░░░░░░░ 35% |
-| SQL | ███░░░░░░░░░░░░░░░░░ 5% |
-
----
-
 ## 💼 Competências Principais
 
 ✅ **Desenvolvimento Backend**
 - APIs RESTful com Java
+- Programação em C++
 - Banco de dados MySQL
 - Containerização com Docker
 
@@ -92,7 +83,7 @@ Sou um desenvolvedor full stack com experiência em criação de aplicações we
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joão-pedro-ribeiro-a62913310Q/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-ribeiro-a62913310)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpeddro0706@gmail.com)
 
 </div>
