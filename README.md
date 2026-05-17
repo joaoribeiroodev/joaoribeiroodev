@@ -1,44 +1,80 @@
 <div align="center">
 
-# João Pedro Ribeiro
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-**Full Stack Developer · Clean Code · Software Architecture**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=João%20Pedro%20Ribeiro&fontSize=52&fontColor=c0caf5&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Clean%20Code%20•%20Software%20Architecture&descAlignY=62&descSize=18&descColor=7aa2f7&animation=twinkling" />
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack+%F0%9F%9A%80;Clean+Code+%7C+Design+Patterns;Arquitetura+de+Software+%F0%9F%8F%97%EF%B8%8F;APIs+RESTful+robustas+%26+escaláveis;Sempre+aprendendo+e+construindo+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   SOCIAL BADGES                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-ribeiro-a62913310)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpeddro0706@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpeddro0706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoribeiroodev)
+![Profile Views](https://komarev.com/ghpvc/?username=joaoribeiroodev&style=for-the-badge&color=7aa2f7&label=VISITAS)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-Desenvolvedor Full Stack com foco em construir aplicações web robustas, escaláveis e bem arquitetadas. Meu diferencial está na disciplina técnica: escrevo código limpo, aplico Design Patterns com intencionalidade e trato arquitetura de software como parte central do desenvolvimento — não como um detalhe.
-
-- 🧱 **Arquitetura & Clean Code** como pilares do meu trabalho
-- 🔒 Foco em qualidade, manutenibilidade e boas práticas
-- 🌱 Atualmente aprofundando em Microsserviços, Spring Boot, Desenvolvimento Back End com Node.js e Segurança de Aplicações
+```yaml
+nome:     João Pedro Ribeiro
+função:   Full Stack Developer
+local:    Brasil 🇧🇷
+foco:
+  - Clean Code & Design Patterns
+  - Arquitetura de Software & Escalabilidade
+  - APIs RESTful robustas e bem documentadas
+  - Containerização e boas práticas de DevOps
+aprendendo_agora:
+  - Microsserviços com Spring Boot
+  - Angular & Ecossistema Frontend moderno
+  - Segurança de Aplicações
+```
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+<div align="center">
+
 **Backend**
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![Backend Skills](https://skillicons.dev/icons?i=java,cpp,mysql&theme=dark)](https://skillicons.dev)
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
 **DevOps & Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,idea&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaoribeiroodev&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -46,30 +82,32 @@ Desenvolvedor Full Stack com foco em construir aplicações web robustas, escal�
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaoribeiroodev&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/joaoribeiroodev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaoribeiroodev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7)](https://github.com/joaoribeiroodev)
 
 </div>
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiroodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/joaoribeiroodev)
-&nbsp;&nbsp;
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoribeiroodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)](https://github.com/joaoribeiroodev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoribeiroodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&count_private=true&rank_icon=github)](https://github.com/joaoribeiroodev)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiroodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7)](https://github.com/joaoribeiroodev)
 
 </div>
 
 ---
 
-## 📚 Aprendendo Atualmente
+## 📈 Atividade de Contribuições
 
-- 🚀 Microsserviços com **Spring Boot**
-- ⚛️ **Angular** e ecossistema moderno de Frontend
-- 🔐 **Segurança de Aplicações**
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaoribeiroodev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&area_color=7aa2f7)](https://github.com/joaoribeiroodev)
+
+</div>
 
 ---
 
 <div align="center">
 
-**Feito por João Ribeiro · Brasil 🇧🇷**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=120&section=footer" />
+
+*Feito com 💜 por João Pedro Ribeiro · Brasil 🇧🇷*
 
 </div>
