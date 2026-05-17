@@ -88,7 +88,7 @@ aprendendo_agora:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoribeiroodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&count_private=true&rank_icon=github)](https://github.com/joaoribeiroodev)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeiroodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7)](https://github.com/joaoribeiroodev)
+[![GitHub Stats](https://github-readme-stats-zeta-dusky-73.vercel.app/api?username=joaoribeiroodev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github)](https://github.com/joaoribeiroodev)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats-zeta-dusky-73.vercel.app/api/top-langs/?username=joaoribeiroodev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7)](https://github.com/joaoribeiroodev)
 
 </div>
 
