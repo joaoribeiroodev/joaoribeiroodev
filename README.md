@@ -54,11 +54,11 @@ aprendendo_agora:
 
 **Backend**
 
-[![Backend Skills](https://skillicons.dev/icons?i=java,cpp,mysql&theme=dark)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,cpp,mysql&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,angular,tailwind&theme=dark)](https://skillicons.dev)
 
 **DevOps & Ferramentas**
 
@@ -72,7 +72,7 @@ aprendendo_agora:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joaoribeiroodev&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=joaoribeiroodev&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
